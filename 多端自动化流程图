@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T11:25:54.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="HGzw3wa-DQmkaAQPwgpv" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T06:36:26.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="xmx9Jc0pEgqUvSXcm40Z" version="14.7.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2892" dy="-39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="y9TRws4zBFBl3Dwub3-w-236" value="Cloud Device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;align=left;" parent="1" vertex="1">
           <mxGeometry x="-350" y="1295" width="420" height="74.5" as="geometry" />
         </mxCell>
-        <mxCell id="y9TRws4zBFBl3Dwub3-w-237" value="多端自动化平台" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
+        <mxCell id="y9TRws4zBFBl3Dwub3-w-237" value="多端自动化系统" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
           <mxGeometry x="162.5" y="1296.5" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9TRws4zBFBl3Dwub3-w-238" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" target="y9TRws4zBFBl3Dwub3-w-239" edge="1">
